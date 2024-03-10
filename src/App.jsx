@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "",
   linkedIn: "https://www.linkedin.com/in/aditi-dahiya-4b9424249/",
   medium: "",
-  twitter: "https://twitter.com/AditiDahiya3006",
+  twitter: "",
   youTube: "",
 };
 
