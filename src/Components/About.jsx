@@ -13,12 +13,12 @@ import React from "react";
  * directory and import here for use. Then, set imageAltText to string that 
  * represents what you see in that image.
  *
- * Need an image? Check out https://unsplash.com to download a image you
+ * Need an image? Check out https://unsplash. com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/birds.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "birds background";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -33,10 +33,9 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Scientist",
+  "Machine Learning Enthusiast",
+  "Community Builder",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX and data analysis experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
