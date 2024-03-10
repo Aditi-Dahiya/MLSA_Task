@@ -29,7 +29,7 @@ const siteProps = {
   email: "aditi.dahiya@studentambassadors.com",
   gitHub: "Aditi Dahiya",
   instagram: "",
-  linkedIn: "aditi-dahiya-4b9424249",
+  linkedIn: "https://www.linkedin.com/in/aditi-dahiya-4b9424249/",
   medium: "",
   twitter: "Aditi Dahiya",
   youTube: "",
