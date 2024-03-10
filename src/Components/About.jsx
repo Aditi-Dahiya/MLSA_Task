@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/Birds.jpg";
 
-const imageAltText = "birds background";
+const imageAltText = "birds  background";
 
 /**
  * Sort description that expands on your title on the Home component.
