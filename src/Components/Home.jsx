@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/scenery.jpg";
+import image from "../images/Scenery.jpg";
 
 const imageAltText = "Aditi Dahiya - Data Scientist. This is a background photo";
 
