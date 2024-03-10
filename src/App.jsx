@@ -27,11 +27,11 @@ const siteProps = {
   name: "Aditi Dahiya",
   title: "Data Scientist and Machine Learning Engineer",
   email: "aditi.dahiya@studentambassadors.com",
-  gitHub: "Aditi Dahiya",
+  gitHub: "https://github.com/Aditi-Dahiya",
   instagram: "",
   linkedIn: "https://www.linkedin.com/in/aditi-dahiya-4b9424249/",
   medium: "",
-  twitter: "Aditi Dahiya",
+  twitter: "https://twitter.com/AditiDahiya3006",
   youTube: "",
 };
 
